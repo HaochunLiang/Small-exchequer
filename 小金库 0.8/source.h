@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<time.h>
+#include<stdlib.h>
+#include<string.h>
+#include "conio.h"
+#include "windows.h"
+
+struct LogData{
+	
+	long logid;
+	char logdata[9];
+	char lognote[15];
+	double charge;
+	double balance;
+	
+}£»
+struct LogData log[100]; 
+
+ 
