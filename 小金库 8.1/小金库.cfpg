@@ -1,0 +1,15 @@
+<Projects version="2.0">
+	<Project active="1">小金库.cfp</Project>
+	<File active="0">source.h</File>
+	<File active="0">显示所有.c</File>
+	<File active="0">查找.c</File>
+	<File active="0">password1.c</File>
+	<File active="0">password2.c</File>
+	<File active="0">菜单.c</File>
+	<File active="0">主函数.c</File>
+	<File active="0">删除账目.c</File>
+	<File active="0">添加新账目.c</File>
+	<File active="1">登陆界面.c</File>
+	<File active="0">bgm.c</File>
+	<File active="0">password.c</File>
+</Projects>
